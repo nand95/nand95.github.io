@@ -1,5 +1,5 @@
 .parallax-effect {
-    background-image: url(Sea1.jpg);
+    background-image: url("Images/Sea1.jpg");
     min-height: 600px;
 
     /* Create the parallax scrolling effect */
